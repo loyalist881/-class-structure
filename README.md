@@ -1,1 +1,1 @@
-# -class-structure
+# class-structure
